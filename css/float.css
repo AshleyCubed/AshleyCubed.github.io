@@ -1,11 +1,3 @@
-html, body {
-	height: 100%;
-}
-
-body {
-	overflow: hidden;
-}
-
 .box {
 	max-width: 70vw;
 	padding: 30px;
