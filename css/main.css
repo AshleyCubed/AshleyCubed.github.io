@@ -3,9 +3,9 @@
 }
 
 .bottomaligned {
-  position:absolute; bottom:0;  margin-bottom:7px; left: 45%;
+  position:/*absolute;*/ bottom:0;  margin-bottom:7px; left: 45%;
 }
 
-h1 {
+/* h1 {
   padding-top: 10%;
-}
+} */
