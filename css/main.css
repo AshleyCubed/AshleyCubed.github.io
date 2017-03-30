@@ -1,14 +1,19 @@
-#introName {
-  color: #ffffff;
+body{
+  color: #fff
+  font-family: 'Righteous', cursive;  
 }
+
+/* #introName {
+  color: #ffffff;
+} */
 
 .bottomaligned {
   position:/*absolute;*/ bottom:0;  margin-bottom:7px; left: 45%;
 }
 
-p {
+/* p {
   color: #fff
-}
+} */
 
 /* Name scroller CSS */
 
