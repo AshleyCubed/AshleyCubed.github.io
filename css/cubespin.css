@@ -1,4 +1,9 @@
-  @-webkit-keyframes spincube {
+#cubespin{
+  float: right;
+  margin: 0 50px;
+}
+
+@-webkit-keyframes spincube {
     from,to  { -webkit-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg); }
     16%      { -webkit-transform: rotateY(-90deg);                           }
     33%      { -webkit-transform: rotateY(-90deg) rotateZ(90deg);            }
