@@ -6,6 +6,10 @@
   position:/*absolute;*/ bottom:0;  margin-bottom:7px; left: 45%;
 }
 
+p {
+  color: #fff
+}
+
 /* Name scroller CSS */
 
 .content {
