@@ -11,9 +11,13 @@ body{
   position:/*absolute;*/ bottom:0;  margin-bottom:7px; left: 45%;
 }
 
-/* p {
+p {
   color: #fff
-} */
+}
+
+#aboutRow {
+  margin-top: 80px;
+}
 
 /* Name scroller CSS */
 
