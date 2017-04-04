@@ -25,8 +25,8 @@ p {
 
 .parallax { 
     /* The image used */
-    background-image: url("https://images.unsplash.com/photo-1479639359931-25f04faa6188?dpr=1&amp");
-    opacity: 0.5;
+/*     background-image: url("https://images.unsplash.com/photo-1479639359931-25f04faa6188?dpr=1&amp"); */
+/*     opacity: 0.5; */
 
     /* Set a specific height */
     height: 500px; 
@@ -36,6 +36,17 @@ p {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.parallax:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url("https://images.unsplash.com/photo-1479639359931-25f04faa6188?dpr=1&amp");
+    width: 100%;
+    height: 100%;
+    opacity : 0.5;
+    z-index: -1;
 }
 
 /* Name scroller CSS */
