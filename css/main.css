@@ -43,6 +43,10 @@ p {
     background-size: cover;
 }
 
+.thumbnail {
+    float: right; 
+}
+
 
 /* Name scroller CSS */
 
