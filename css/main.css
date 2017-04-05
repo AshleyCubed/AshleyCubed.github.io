@@ -37,9 +37,13 @@ li {
   width: 30%;
 }
 
-/* .skillTwo {
-  padding-left: 20%;
-} */
+@media screen and (max-width: 640px)
+.aboutList {
+    float: none;
+    display: inline-block;
+    width: 100%;
+    margin-left: 0;
+}
 
 #current {
   color: green;
