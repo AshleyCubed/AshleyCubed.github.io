@@ -33,7 +33,7 @@ p {
 /*     opacity: 0.5; */
 
     /* Set a specific height */
-    height: 575px; 
+    height: 100%; 
     width: 100%;
 
     /* Create the parallax scrolling effect */
