@@ -55,6 +55,10 @@ li {
     background-size: cover;
 }
 
+#skilldetails {
+  padding-top: 15%;
+}
+
 .thumbnail {
     float: left;
     width: 100;
