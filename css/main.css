@@ -22,9 +22,10 @@ p {
 .details{
     float: left;
 }
-/* .details li {
-  color: green;
-} */
+
+ul {
+  list-style-type: none;
+}
 
 li {
   color: #fff
@@ -37,10 +38,6 @@ li {
 #cubeSpin {
   margin-top: 20px;
 }
-
-/* #skillRow {
-    height: 50% 
-} */
 
 .parallax { 
     /* The image used */
