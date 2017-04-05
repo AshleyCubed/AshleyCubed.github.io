@@ -37,7 +37,7 @@ li {
   width: 30%;
 }
 
-@media screen and (max-width: 640px)
+@media (min-width: @screen-xs-max) and (max-width: @screen-sm-max)/* (max-width: 640px) */
 .aboutList {
     float: none;
     display: inline-block;
