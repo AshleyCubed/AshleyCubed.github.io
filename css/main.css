@@ -22,9 +22,12 @@ p {
 .details{
     float: left;
 }
-.schoolist {
-  color:green;
+.details li {
+  color: green;
 }
+/* .schoolist {
+  color:green;
+} */
 
 #current {
   color: green;
@@ -34,9 +37,9 @@ p {
   margin-top: 20px;
 }
 
-#skillRow {
+/* #skillRow {
     height: 50% 
-}
+} */
 
 .parallax { 
     /* The image used */
