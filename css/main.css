@@ -22,12 +22,13 @@ p {
 .details{
     float: left;
 }
-.details li {
+/* .details li {
   color: green;
-}
-/* .schoolist {
-  color:green;
 } */
+
+li {
+  color: #fff
+}
 
 #current {
   color: green;
