@@ -31,6 +31,10 @@ li {
   color: #fff
 }
 
+.skillTwo {
+  padding-left: 15%;
+}
+
 #current {
   color: green;
 }
