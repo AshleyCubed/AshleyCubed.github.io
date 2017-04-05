@@ -15,12 +15,19 @@ p {
   color: #fff
 }
 
-#aboutRow {
+/* #aboutRow {
   margin-top: 15px;
+} */
+
+.details{
+    float: left;
+}
+#current {
+  color: green;
 }
 
 #cubeSpin {
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 #skillRow {
