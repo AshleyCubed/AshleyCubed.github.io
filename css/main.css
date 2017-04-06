@@ -20,8 +20,9 @@ p {
   display: block;
 }
 
-#intoPara {
+#introPara {
   padding-top: 20%;
+  text-align: right;
 }
 
 #aboutRow {
