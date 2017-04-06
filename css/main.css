@@ -37,14 +37,14 @@ li {
   width: 30%;
 }
 
-@media (min-width: @screen-xs-max) and (max-width: @screen-sm-max)/* (max-width: 640px) */
-.aboutList {
-    float: none;
-    display: inline-block;
-    width: 100%;
-    margin-left: 0;
+@media (min-width: @screen-xs-max) and (max-width: @screen-sm-max) { /* (max-width: 640px) */
+  .aboutList {
+      float: none;
+      display: inline-block;
+      width: 100%;
+      margin-left: 0;
+  }
 }
-
 #current {
   color: green;
 }
@@ -55,20 +55,22 @@ li {
   color: #08fdd8;
 }
 
-.parallax { 
-    /* The image used */
-    background-image: url("https://images.unsplash.com/photo-1479639359931-25f04faa6188?dpr=1&amp");
-/*     opacity: 0.5; */
+@media (min-width: @screen-md-min){
+  .parallax { 
+      /* The image used */
+      background-image: url("https://images.unsplash.com/photo-1479639359931-25f04faa6188?dpr=1&amp");
+  /*     opacity: 0.5; */
 
-    /* Set a specific height */
-    height: 100%; 
-    width: 100%;
+      /* Set a specific height */
+      height: 100%; 
+      width: 100%;
 
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
 }
 
 #skillDetails {
