@@ -36,6 +36,10 @@ li {
   color: #fff
 }
 
+a {
+  color: #08fdd8;
+}
+
 .aboutList {
   float: left;
   width: 30%;
@@ -54,7 +58,7 @@ li {
   }
 }
 #current {
-  color: green;
+  color: #08fdd8;
 }
 
 #cubeSpin {
