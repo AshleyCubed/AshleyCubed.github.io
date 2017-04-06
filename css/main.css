@@ -106,3 +106,7 @@ li {
   animation-name: rubberBand;
 }
 
+.btn-default {
+  border-color: #08fdd8
+}
+
