@@ -20,6 +20,10 @@ p {
   display: block;
 }
 
+#intoPara {
+  padding-top: 20%;
+}
+
 #aboutRow {
   margin-top: 5%;
 }
