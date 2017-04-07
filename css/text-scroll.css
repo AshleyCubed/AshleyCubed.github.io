@@ -1,7 +1,5 @@
-
-
-.content {
-  position: absolute;
+/* .content {
+/*   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -175,9 +173,9 @@
   95.96% {
     transform: translate3d(0, -25%, 0);
   }
-}
+} */
 
-@keyframes opacity {
+/* @keyframes opacity {
   0%,
   100% {
     opacity: 0;
@@ -213,9 +211,9 @@
   95.96% {
     transform: translate3d(0, -25%, 0);
   }
-}
-
-// 6 is the number of animation.
+} */
+ */
+/* // 6 is the number of animation.
 // Here, there are 4 lines :
 // 1 to 2
 // 2 to 3
@@ -228,3 +226,4 @@
 // y = 4 -> Animation between two lines
 // x = 12.66 -> Time spent on a line
 // You can define a value and calculate the other if you want change speed or the number of lines
+ */
