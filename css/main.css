@@ -22,7 +22,7 @@ p {
 
 #introPara {
   padding-top: 20%;
-  text-align: right;
+  text-align: left;
 }
 
 #aboutRow {
@@ -74,6 +74,7 @@ a {
 
 .parallax { 
    /* The image used */
+   background-color: #fff;
    background-image: url("https://images.unsplash.com/photo-1479639359931-25f04faa6188?dpr=1&amp");
   /*     opacity: 0.5; */
 
