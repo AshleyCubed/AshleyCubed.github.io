@@ -131,3 +131,7 @@ i {
   padding-left: 15%;
   padding-top: 12%;
 }
+
+#copyStatus {
+  color: #000;
+}
