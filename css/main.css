@@ -62,7 +62,7 @@ a {
 
 @media (max-width: @screen-sm-max) {
   .parallax {
-      background-color: pink; 
+      background-color: #109; 
   }
 }
 
