@@ -135,6 +135,10 @@ i {
   padding-top: 12%;
 }
 
+#contactIcons {
+  padding-bottom: 10%; 
+}
+
 #copyStatus {
   color: #fff;
   padding-top: 15%;
