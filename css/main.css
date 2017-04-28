@@ -27,7 +27,7 @@ p {
 }
 
 #aboutRow {
-  margin-top: 5%;
+/*   margin-top: 5%; */
 }
 
 .details{
@@ -94,7 +94,7 @@ a {
 }
 
 #skillDetails {
-  padding-top: 10%;
+  padding-top: 3%;
 }
 
 .thumbnail {
