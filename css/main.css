@@ -48,7 +48,7 @@ a {
 
 .aboutList {
   float: left;
-  width: 30%;
+/*   width: 30%; */
 }
 
 @media (min-width: @screen-xs-max) and (max-width: @screen-sm-max) { /* (max-width: 640px) */
